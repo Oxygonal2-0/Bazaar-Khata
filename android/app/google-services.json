@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757327725889",
+    "project_id": "bazaarkhata-94539",
+    "storage_bucket": "bazaarkhata-94539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757327725889:android:506cb6d109703cad2d4dc0",
+        "android_client_info": {
+          "package_name": "com.example.new_bazaar_khata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757327725889-gltt2q60f8b3okk5n1fto980i609mleg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7D9phbNv7fOepkXlfG-_XF4_U0grB3xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757327725889-gltt2q60f8b3okk5n1fto980i609mleg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
